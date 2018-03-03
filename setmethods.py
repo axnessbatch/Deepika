@@ -1,0 +1,13 @@
+a={1,2,3,4,5,6}
+b={18,9,3,4,11}
+a.add(10)
+print(a)
+print(a.difference(b))
+#print(a.difference_update(b))
+#print(a)
+print(a.discard(5))
+print(a)
+print(a.intersection(b))
+print(a.union(b))
+print(a.symmetric_difference(b))
+#print(a.isdisjoint())
